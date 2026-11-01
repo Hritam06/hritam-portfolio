@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor settings
+.vscode/
+.idea/
+
+# Local backup files
+*.before-final-design
+
+# Temporary files
+*.tmp
+*.bak
